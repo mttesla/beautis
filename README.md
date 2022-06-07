@@ -1,0 +1,2 @@
+# beautis
+Beautis web page
