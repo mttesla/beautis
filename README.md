@@ -1,2 +1,1 @@
 # beautis
-Beautis web page
